@@ -1,3 +1,7 @@
+NOTE: Our code is in the subdirectory user_data. You will find another readme there. Our report is found at this link: https://docs.google.com/document/d/1O737A7bETY5aP6qD4gc1f_J2jhBHJ1F-YudeXQ_QYPI/edit?usp=sharing
+
+Below is the original readme from forked repo.
+
 # ![freqtrade](https://raw.githubusercontent.com/freqtrade/freqtrade/develop/docs/assets/freqtrade_poweredby.svg)
 
 [![Freqtrade CI](https://github.com/freqtrade/freqtrade/workflows/Freqtrade%20CI/badge.svg)](https://github.com/freqtrade/freqtrade/actions/)
