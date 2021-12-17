@@ -1,3 +1,5 @@
+Some new analysis on the use of Fourier transforms on trading bot decisions. Made by Kevin Yao and Mohnish Pai.
+
 NOTE: Our code is in the subdirectory user_data. You will find another readme there. Our report is found at this link: https://docs.google.com/document/d/1O737A7bETY5aP6qD4gc1f_J2jhBHJ1F-YudeXQ_QYPI/edit?usp=sharing
 
 Below is the original readme from forked repo.
